@@ -1,2 +1,2 @@
-# la_scrapper
-Scraps Linux Academy to get free courses for each month
+# Free Courses Scrapper
+Scraps Linux Academy to get links to free courses for each month
